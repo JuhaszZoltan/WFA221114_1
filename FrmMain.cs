@@ -7,7 +7,7 @@ namespace WFA221114_1
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void FrmMain_Load(object sender, EventArgs e)
         {
 
         }
